@@ -1,0 +1,6 @@
+./BinaryTree.java
+./Main.java
+./DictionaryTree.java
+./FileHelper.java
+./HttpHelper.java
+./Translation.java
